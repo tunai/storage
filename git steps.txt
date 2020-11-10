@@ -1,0 +1,47 @@
+0. install git
+
+(only once)
+0.1 git config --global "tunaip@gmail.com"
+0.2 git config --global user.name "Tunai Marques" 
+
+
+1. go to folder 
+2. git init -> initialize your git repository (specific to a folder where you run it)
+3. git add . -> add content of the folder on git folder
+4. git status -> check the files added to the folder
+5. git commit -m "commit_name" (example: "version 1.0")
+5.1 git log (shows a history of the commits done)
+
+6. git remote add origin https://github.com/tunai/l2uwe.git (create a remote called "origin". change for specific project url)
+6.1 git remote -v (list the remotes that were connected)
+
+7. git pull origin master --allow-unrelated-histories (we had to pull because a README.md file was on the remote master branch and not in this PC. therefore, there was a difference between the local and remote versions of the project. If we were working solely locally, this step would not be necessary).git remote
+
+8. git push -u origin master 
+(this is pushing to the master branch. if you want to push to a different branch, create one, commit to it and then change "master" by its name here). (-u sets origin as the remote target, so that future pushes can be done with simply "git push")
+
+UPDATING FILES
+
+1. git status (will show the files that actually changed since the last commit)
+2. git add . (this will change all the files that were modified)
+or
+2.1 (optional) git add file1 file2... (this will only change the files that you sepcify)
+3. git commit -m "commit message"
+4. git log (shows a history of the commits done)
+then go with step 8 
+
+GOING BACK TO A PREVIOUS COMMIT
+1. git log
+grab the commit-hash (code)
+2. git checkout "commit-hash" 
+
+CREATING A NEW BRANCH TO WORK IN PARALLEL TO THE MASTER ONE
+1. git branch (show what are the available branches)
+1.1 git cheout master (goes back to the master branch if not already there)
+
+2. git branch <branch-name> (creates a new branch)
+3. git checkout <branch-name> (goes to the new branch)
+4. git add . (adds everything new to the new branch)
+5. git commit -m "commit message"
+if you like the changes in a branch and wants to merge it to the master branch, 
+6. git merge <new-branch-name>
