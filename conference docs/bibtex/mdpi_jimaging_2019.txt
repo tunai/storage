@@ -1,0 +1,10 @@
+@article{porto2019contrast,
+  title={A contrast-guided approach for the enhancement of low-lighting underwater images},
+  author={Porto Marques, Tunai and Branzan Albu, Alexandra and Hoeberechts, Maia},
+  journal={Journal of Imaging},
+  volume={5},
+  number={10},
+  pages={79},
+  year={2019},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}

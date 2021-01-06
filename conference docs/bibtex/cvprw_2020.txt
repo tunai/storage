@@ -1,0 +1,7 @@
+@InProceedings{Marques_2020_CVPR_Workshops,
+author = {Marques, Tunai Porto and Albu, Alexandra Branzan},
+title = {L2UWE: A Framework for the Efficient Enhancement of Low-Light Underwater Images Using Local Contrast and Multi-Scale Fusion},
+booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+month = {June},
+year = {2020}
+}

@@ -1,0 +1,6 @@
+@article{rezvanifar2019deep,
+  title={A Deep Learning-based Framework for the Detection of Schools of Herring in Echograms},
+  author={Rezvanifar, Alireza and Porto Marques, Tunai and Cote, Melissa and Albu, Alexandra Branzan and Slonimer, Alex and Tolhurst, Thomas and Ersahin, Kaan and Mudge, Todd and Gauthier, St{\'e}phane},
+  journal={arXiv preprint arXiv:1910.08215},
+  year={2019}
+}

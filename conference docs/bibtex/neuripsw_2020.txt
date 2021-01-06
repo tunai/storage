@@ -1,0 +1,6 @@
+@article{mcintosh2020movement,
+  title={Movement Tracks for the Automatic Detection of Fish Behavior in Videos},
+  author={McIntosh, Declan and Marques, Tunai Porto and Albu, Alexandra Branzan and Rountree, Rodney and De Leo, Fabio},
+  journal={arXiv preprint arXiv:2011.14070},
+  year={2020}
+}

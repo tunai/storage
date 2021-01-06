@@ -1,0 +1,8 @@
+@inproceedings{marques2018enhancement,
+  title={Enhancement of low-lighting underwater images using dark channel prior and fast guided filters},
+  author={Marques, Tunai Porto and Albu, Alexandra Branzan and Hoeberechts, Maia},
+  booktitle={International Conference on Pattern Recognition},
+  pages={55--65},
+  year={2018},
+  organization={Springer}
+}

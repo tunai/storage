@@ -1,0 +1,7 @@
+@inproceedings{marques2013_wvc,
+  title={Robotic Platform with independent vision and navigation systems},
+  author={Porto Marques, Tunai and Matos, Leonardo Nogueira and Macedo, Hendrik and Henrique, Danilo},
+  booktitle={Proceedings of the IX Workshop de Visao Computacional},
+  year={2013}
+}
+

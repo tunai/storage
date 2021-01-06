@@ -1,0 +1,8 @@
+@InProceedings{Marques_2021_WACV,
+    author    = {Marques, Tunai Porto and Albu, Alexandra Branzan and O'Hara, Patrick and Serra, Norma and Morrow, Ben and McWhinnie, Lauren and Canessa, Rosaline},
+    title     = {Size-Invariant Detection of Marine Vessels From Visual Time Series},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2021},
+    pages     = {443-453}
+}

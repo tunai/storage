@@ -1,0 +1,9 @@
+@article{leao2011sistema,
+  title={Sistema atencional para detec{\c{c}}{\~a}o e rastreamento de faces},
+  author={Le{\~a}o, Leonardo Pinto da Silva Panta and Porto Marques, Tunai and Matos, Leonardo Nogueira},
+  journal={Revista Brasileira de Computa{\c{c}}{\~a}o Aplicada},
+  volume={3},
+  number={1},
+  pages={53--63},
+  year={2011}
+}

@@ -1,0 +1,8 @@
+@inproceedings{marques2017autonomous,
+  title={Autonomous robot for mapping using ultrasonic sensors},
+  author={Porto Marques, Tunai and Hamano, Fumio},
+  booktitle={2017 IEEE Green Energy and Smart Systems Conference (IGESSC)},
+  pages={1--6},
+  year={2017},
+  organization={IEEE}
+}
