@@ -1,7 +1,9 @@
-@inproceedings{marques2020_icpr,
+@inproceedings{marques2021detecting,
   title={Detecting Marine Species in Echograms via Traditional, Hybrid, and Deep Learning Frameworks},
-  author={Porto Marques, Tunai and Rezvanifar, Alireza and Cote, Melissa and Albu, Alexandra Branzan and Ersahin, Kaan and Mudge, Todd and Gauthier, Stephane},
+  author={Marques, Tunai Porto and Rezvanifar, Alireza and Cote, Melissa and Albu, Alexandra Branzan and Ersahin, Kaan and Mudge, Todd and Gauthier, St{\'e}phane},
   booktitle={2020 25th International Conference on Pattern Recognition (ICPR)},
-  year={2021}
+  pages={5928--5935},
+  year={2021},
+  organization={IEEE}
 }
 
