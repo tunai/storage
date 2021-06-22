@@ -1,7 +1,8 @@
-@inproceedings{marques2021instance,
-  title={Instance Segmentation-Based Identification of Pelagic Species in Acoustic Backscatter Data},
-  author={Marques, Tunai Porto and Cote, Melissa and Rezvanifar, Alireza and Albu, Alexandra Branzan and Ersahin, Kaan and Mudge, Todd and Gauthier, Stephane},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={4378--4387},
-  year={2021}
+@InProceedings{Marques_2021_CVPR,
+    author    = {Marques, Tunai Porto and Cote, Melissa and Rezvanifar, Alireza and Albu, Alexandra Branzan and Ersahin, Kaan and Mudge, Todd and Gauthier, Stephane},
+    title     = {Instance Segmentation-Based Identification of Pelagic Species in Acoustic Backscatter Data},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2021},
+    pages     = {4378-4387}
 }
