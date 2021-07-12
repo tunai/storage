@@ -1,0 +1,8 @@
+@inproceedings{mcintosh2021preservation,
+  title={Preservation of High Frequency Content for Deep Learning-Based Medical Image Classification},
+  author={McIntosh, Declan and Marques, Tunai Porto and Albu, Alexandra Branzan},
+  booktitle={2021 18th Conference on Robots and Vision (CRV)},
+  pages={41--48},
+  year={2021},
+  organization={IEEE}
+}
