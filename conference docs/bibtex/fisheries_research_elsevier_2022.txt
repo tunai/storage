@@ -1,0 +1,9 @@
+@article{morrow2022improving,
+  title={Improving effort estimates and informing temporal distribution of recreational salmon fishing in British Columbia, Canada using high-frequency optical imagery data},
+  author={Morrow, Benjamin D and O’Hara, Patrick D and Ban, Natalie C and Marques, Tunai P and Fraser, Molly D and Serra-Sogas, Norma S and Bone, Christopher E},
+  journal={Fisheries Research},
+  volume={249},
+  pages={106251},
+  year={2022},
+  publisher={Elsevier}
+}
