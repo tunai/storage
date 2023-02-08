@@ -1,0 +1,8 @@
+@inproceedings{slonimer2022instance,
+  title={Instance segmentation of herring and salmon schools in acoustic echograms using a hybrid u-net},
+  author={Slonimer, Alex L and Cote, Melissa and Marques, Tunai Porto and Rezvanifar, Alireza and Dosso, Stan E and Albu, Alexandra Branzan and Ersahin, Kaan and Mudge, Todd and Gauthier, St{\'e}phane},
+  booktitle={2022 19th Conference on Robots and Vision (CRV)},
+  pages={8--15},
+  year={2022},
+  organization={IEEE}
+}

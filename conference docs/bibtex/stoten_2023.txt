@@ -1,0 +1,9 @@
+@article{o2023automated,
+  title={Automated identification system for ships data as a proxy for marine vessel related stressors},
+  author={O'Hara, Patrick D and Serra-Sogas, Norma and McWhinnie, Lauren and Pearce, Kim and Le Baron, Nicole and O'Hagan, Gregory and Nesdoly, Andrea and Marques, Tunai and Canessa, Rosaline},
+  journal={Science of the Total Environment},
+  volume={865},
+  pages={160987},
+  year={2023},
+  publisher={Elsevier}
+}

@@ -1,0 +1,8 @@
+@inproceedings{mcintosh2022tempnet,
+  title={Tempnet: Temporal attention towards the detection of animal behaviour in videos},
+  author={McIntosh, Declan and Marques, Tunai Porto and Albu, Alexandra Branzan and Rountree, Rodney and De Leo, Fabio},
+  booktitle={2022 26th International Conference on Pattern Recognition (ICPR)},
+  pages={3318--3324},
+  year={2022},
+  organization={IEEE}
+}

@@ -1,0 +1,5 @@
+@phdthesis{porto2022computer,
+  title={Computer vision-based systems for environmental monitoring applications},
+  author={Porto Marques, Tunai},
+  year={2022}
+}
